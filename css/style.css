@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background: #1a1f18;
+  color: #e8ebe6;
+  line-height: 1.6;
+}
+
+nav {
+  padding: 1rem;
+  border-bottom: 1px solid #384832;
+}
+
+section {
+  padding: 3rem 1.5rem;
+  max-width: 800px;
+  margin: auto;
+}
+
+h1, h2 {
+  color: #e8ebe6;
+}
+
+footer {
+  padding: 1rem;
+  text-align: center;
+  border-top: 1px solid #384832;
+}
+
+a {
+  color: #5a7050;
+  text-decoration: none;
+}
